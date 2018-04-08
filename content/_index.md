@@ -1,2 +1,2 @@
 ## Front Page Content
-`beautifulhugo` supports content on your front page. Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md` if you don't want any content here.
+Data Analyst with experience in academic research and side projects. Looking to transition from my education into the world of analytics. Will be relocating to Omaha, NE in June of 2018.
