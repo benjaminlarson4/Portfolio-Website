@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Benjamin Larson</title>
-    <link>/categories/</link>
+    <link>https://www.benjaminlarson4.com/categories/</link>
     <description>Recent content in Categories on Benjamin Larson</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>benjamin.larson.4@outlook.com (Benjamin Larson)</managingEditor>
     <webMaster>benjamin.larson.4@outlook.com (Benjamin Larson)</webMaster>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.benjaminlarson4.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://www.benjaminlarson4.com/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       <author>benjamin.larson.4@outlook.com (Benjamin Larson)</author>
-      <guid>/categories/r/</guid>
+      <guid>https://www.benjaminlarson4.com/categories/r/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bigimg on Benjamin Larson</title>
-    <link>/tags/bigimg/</link>
+    <link>https://www.benjaminlarson4.com/tags/bigimg/</link>
     <description>Recent content in Bigimg on Benjamin Larson</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>benjamin.larson.4@outlook.com (Benjamin Larson)</managingEditor>
     <webMaster>benjamin.larson.4@outlook.com (Benjamin Larson)</webMaster>
     <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.benjaminlarson4.com/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Big Image Sample</title>
-      <link>/post/2017-03-07-bigimg-sample/</link>
+      <link>https://www.benjaminlarson4.com/post/2017-03-07-bigimg-sample/</link>
       <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       <author>benjamin.larson.4@outlook.com (Benjamin Larson)</author>
-      <guid>/post/2017-03-07-bigimg-sample/</guid>
+      <guid>https://www.benjaminlarson4.com/post/2017-03-07-bigimg-sample/</guid>
       <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
