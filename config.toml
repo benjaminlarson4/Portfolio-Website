@@ -6,6 +6,8 @@ theme = "hugo-theme-dream"
 
 copyright = ""
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 # enableRobotsTXT = true
 
 googleAnalytics = "UA-104144374-1"
