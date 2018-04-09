@@ -1,0 +1,103 @@
+baseURL = "https://www.benjaminlarson4.com/"
+languageCode = "en-us"
+title = "Benjamin Larson"
+theme = "hugo-initio"
+publishDir = "public"
+
+[params]
+name = "Benjamin Larson"
+description = "A mystery person"
+email = "benjamin.larson.4@outlook.com"
+phone = "(701)-368-2069"
+address = "Grand Forks, ND 58201"
+year = 2018
+background = ""
+favicon = "images/gt_favicon.png"
+DateForm = "January 2, 2006"
+
+showSubheader = true
+showServices = true
+showRecentWorks = true
+showDownload = true
+showClients = true
+
+footerEnableContact = true
+footerEnableFollowme = true
+footerEnableTextWidget = true
+footerEnableFormWidget = true
+
+[[menu.main]]
+name = "home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "blog"
+url = "/post/"
+weight = 5
+
+[params.disqus]
+#    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+#    property = "123456789012345678901234"
+#    custom = true
+
+[params.google.analytics]
+trackerID = "UA-104144374-1"
+
+[[params.social]]
+title = "facebook"
+url = "https://www.facebook.com/nickname"
+icon = "fa-facebook-square"
+footer = true
+sharethis = true
+network = "facebook"
+[[params.social]]
+title = "twitter"
+url = "https://twitter.com/nickname"
+icon = "fa-twitter-square"
+footer = true
+sharethis = true
+network = "twitter"
+[[params.social]]
+title = "instagram"
+url = "https://www.instagram.com/nickname"
+icon = "fa-instagram"
+footer = true
+sharethis = false
+network = ""
+[[params.social]]
+title = "google+"
+url = "https://plus.google.com/+nickname"
+icon = "fa-google-plus-square"
+footer = false
+sharethis = true
+network = "googleplus"
+[[params.social]]
+title = "linkedin"
+url = "https://www.linkedin.com/in/benjaminlarson4"
+icon = "fa-linkedin-square"
+footer = false
+sharethis = true
+network = "linkedin"
+[[params.social]]
+title = "tumblr"
+url = "https://nickname.tumblr.com"
+icon = "fa-tumblr-square"
+footer = false
+sharethis = false
+network = "tumblr"
+[[params.social]]
+title = "github"
+url = "https://github.com/benjaminlarson4"
+icon = "fa-github"
+footer = true
+sharethis = false
+network = ""
+[[params.social]]
+title = "email"
+url = "mailto:benjamin.larson.4@outlook.com"
+icon = "fa-envelope"
+footer = false
+sharethis = true
+network = "email"
