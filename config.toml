@@ -1,16 +1,16 @@
 baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Benjamin Larson"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
-    name = "Anthony Russel"
+    name = "Benjamin Larson"
     description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
+    email = "benjamin.larson.4@outlook.com"
+    phone = "(701)-368-2069"
+    address = "Grand Forks, ND 58201"
+    year = 2018
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
@@ -36,14 +36,14 @@ publishDir = "docs"
     weight = 5
 
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+#    site = "hugo-initio-site.disqus.com"
 
 [params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
+#    property = "123456789012345678901234"
+#    custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "UA-104144374-1"
 
 [[params.social]]
 	title = "facebook"
