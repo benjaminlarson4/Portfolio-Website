@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 googleAnalytics = "UA-104144374-1"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
 
 [Params]
   subtitle = "Data Analyst Portfolio"
